@@ -28,7 +28,7 @@
         android:textColor="@color/colorPrimary"
         android:textColorHint="@color/colorPrimaryDark"
         android:padding="20dp"
-        android:text="Username" />
+        android:hint="Username" />
 
     <EditText
         android:id="@+id/register_phone_number_input"
